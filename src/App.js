@@ -1,5 +1,5 @@
 import './App.css';
-import CounterParent from './components/CounterParent';
+import CounterParent from './components/ProfileParent';
 
 function App() {
   
